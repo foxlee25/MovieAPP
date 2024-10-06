@@ -1,0 +1,15 @@
+# Ignore .idea folder (for IntelliJ/Android Studio)
+.idea/
+
+# Ignore build output directories
+/build/
+/app/build/
+
+# Ignore local configuration files
+local.properties
+
+# Ignore Gradle related files
+/gradle/
+*.jar
+*.war
+*.ear
